@@ -12,6 +12,13 @@ export const themes = {
     text_color: "434d58",
     bg_color: "fffefe",
   },
+  synthwave_glass: {
+  title_color: "E26EE5",
+  icon_color: "E26EE5",
+  text_color: "CFCFE7",
+  bg_color: "00000000", // transparent background
+  border_color: "E26EE5",
+  },
   transparent: {
     title_color: "006AFF",
     icon_color: "0579C3",
